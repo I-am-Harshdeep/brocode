@@ -1,0 +1,1 @@
+web gunicorn brocode.wsgi:application --log-file -
